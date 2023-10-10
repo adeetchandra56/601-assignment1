@@ -1,0 +1,91 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    width:400px;
+    margin:auto;
+    
+}
+
+.description {
+    height:250px;
+    width:250px;
+    border: 5px solid black;
+    margin-left:350px;
+}
+.summarybox {
+    width:80%;
+    border: 10px solid black;
+    margin:auto;
+}
+
+.Education {
+    width:80%;
+    border: 10px solid black;
+    margin:auto;
+}
+
+.abtTCNJ {
+    text-indent: 10px;
+}
+.abtNJIT {
+    text-indent: 10px;
+}
+
+.workexperience {
+    width:80%;
+    border: 10px solid black;
+    margin:auto;
+}
+
+.skillsandawards {
+    width:80%;
+    border: 10px solid black;
+    margin:auto;
+}
+
+.Sanofi {
+    text-align: center;
+    font-size:11px;
+}
+
+.Sanofititle {
+    text-align: center;
+    font-size:20px;
+}
+
+.skills {
+    text-align: center;
+    font-size:20px;
+}
+
+.mypic{
+    height:250px;
+    width:250px;
+}
+
+.footer{
+    text-align: center;
+}
